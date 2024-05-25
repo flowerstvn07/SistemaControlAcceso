@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1716667526 source:c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia8\main.cpp
+	<iostream>
+	"Aplicacion.h"
+
+1716667207 c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia8\include\aplicacion.h
+	<iostream>
+	"Usuario.h"
+	"Registro.h"
+	<string>
+
+1716666692 c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia8\include\registro.h
+	<iostream>
+	<string>
+
+1716667068 c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia8\include\usuario.h
+	<iostream>
+	<string>
+
+1716667020 source:c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia8\src\registro.cpp
+	"Registro.h"
+
+1716667646 source:c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia8\src\aplicacion.cpp
+	"Aplicacion.h"
+	<iostream>
+
+1716667110 source:c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia8\src\usuario.cpp
+	"Usuario.h"
+
